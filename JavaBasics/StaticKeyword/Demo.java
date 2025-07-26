@@ -1,5 +1,3 @@
-package JavaBackend.JavaBasics.StaticKeyword;
-
 class Mobile{
     // instance variables
     String brand;

@@ -1,5 +1,3 @@
-package JavaBackend.JavaBasics.ArrayBasics.Multi_D_Array;
-
 public class MultiDarray {
     public static void main(String[] args) {
 

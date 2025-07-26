@@ -1,5 +1,3 @@
-package JavaBackend.JavaBasics.ArrayBasics.ArrayAdv;
-
 class Student{
     int rollNo;
     String name;

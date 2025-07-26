@@ -1,5 +1,3 @@
-package JavaBackend.OOPs.Encapsulation.Constructors;
-
 class Human{
 
     private int age;

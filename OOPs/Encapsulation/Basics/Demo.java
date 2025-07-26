@@ -1,5 +1,3 @@
-package JavaBackend.OOPs.Encapsulation.Basics;
-
 class Human{
     private int age;
     private String name;

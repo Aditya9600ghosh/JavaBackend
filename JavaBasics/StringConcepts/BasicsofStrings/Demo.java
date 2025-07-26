@@ -1,5 +1,3 @@
-package JavaBackend.JavaBasics.StringConcepts.BasicsofStrings;
-
 public class Demo {
     public static void main(String[] args) {
 

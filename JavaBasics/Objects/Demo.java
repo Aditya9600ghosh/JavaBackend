@@ -1,5 +1,3 @@
-package JavaBackend.JavaBasics.Objects;
-
 class A{
     public A(){
         System.out.println("Object created & Constructor Invoked");

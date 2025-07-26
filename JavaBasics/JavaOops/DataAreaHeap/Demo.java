@@ -1,6 +1,3 @@
-package JavaBackend.JavaBasics.JavaOops.DataAreaHeap;
-
-
 class Calculator {
 
     int num = 5; // instance variable

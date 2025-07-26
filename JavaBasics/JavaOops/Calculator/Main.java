@@ -1,5 +1,3 @@
-package JavaBackend.JavaBasics.JavaOops.Calculator;
-
 class Calculator {
 
     public int add(int n1, int n2){

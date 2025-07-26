@@ -1,5 +1,3 @@
-package JavaBackend.OOPs.Inheritance.Constructors;
-
 class America{ // SuperClass
     public America(){
         System.out.println("A construtor");

@@ -1,5 +1,3 @@
-package JavaBackend.JavaBasics.ArrayBasics;
-
 public class Arraybasics {
     public static void main(String[] args) {
         // int arr[] = {12,13,14,15};

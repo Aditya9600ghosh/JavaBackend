@@ -1,5 +1,3 @@
-package JavaBackend.OOPs.Inheritance.Constructors;
-
 // Here we are talking about super() keyword
 
 class A{
