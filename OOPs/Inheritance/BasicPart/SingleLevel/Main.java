@@ -1,4 +1,4 @@
-public class Demo{
+public class Main{
     public static void main(String[] args) {
         AdvCalc obj = new AdvCalc();
         int r1 = obj.add(7, 12);
