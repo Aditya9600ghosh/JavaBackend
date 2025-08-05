@@ -29,9 +29,9 @@ class Calc{
 }
 
 class AdvCalc extends Calc{
-    public void show(){  // since the show() method is final so it cannot be override in his subclass
-        System.out.println("By John");
-    }
+    // public void show(){  // since the show() method is final so it cannot be override in his subclass
+    //     System.out.println("By John");
+    // }
 }
 
 public class Demo {
