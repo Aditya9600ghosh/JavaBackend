@@ -38,7 +38,7 @@ class Luxury extends Lamborghini{          // Concrete class
 
 public class Demo {
     public static void main(String[] args) {
-        Car obj = new Luxury();
+        Car obj = new Luxury();   // here the object is of Luxury class but the reference is of Car class
         obj.drive();
         obj.playMusic();
         obj.fly();
